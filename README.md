@@ -1,39 +1,67 @@
-# Who is N0m4d_St4r?
+# N0m4d_St4r
 
-A man who:
-- goes everywhere but doesn't belong anywhere.
-- knows that life is like caos and only time knows how valuable love is. 
-- leaves rage, hate and resentment behind, to live life faithfull to his principles: empathy, honesty, willing.
-- in every occasion, has given the best that he has in order to make the world a better place.
+> *Someone who belongs everywhere, yet nowhere.*
+> *"Life is better when I can be with you."*
 
-## What are your interests?
+This repository is not about me.
 
-Yes.
+It is about the ideas that shaped everything I build.
 
-## Does that mean all?
+Every project, every experiment and every failure documented here originates from a simple belief:
 
-There's not knowledge category that cannot be useful in at least one aspect of life, so why do I need to stop learning?
+> Technology should help people understand, create and grow together.
 
-## At least you have a preference?
+Nothing here should be interpreted as absolute truth.
 
-I'm just going to say that I found that humans in general (which includes me), are fascinating.
+Only as a collection of hypotheses I have chosen to test through engineering.
+
+If one day these ideas are proven wrong, I hope the discoveries made along the way remain useful.
+
+## How to read this library
+
+There is no correct order.
+
+Every chapter references another.
+
+Every project originates from a principle.
+
+Every principle attempts to answer a question.
+
+Every question eventually becomes an experiment.
+
+Start wherever your curiosity takes you.
+
+## Table of Contents
+
+### 📖 Foundations
+
+* [Vision](vision.md)
+* [Mission](mission.md)
+* [Principles](principles.md)
+* [Values](values.md)
+
+### 🧠 Philosophy
+
+* [Knowledge](philosophy/knowledge.md)
+* [Freedom](philosophy/freedom.md)
+* [Trust](philosophy/trust.md)
+* [Decentralization](philosophy/decentralization.md)
+* [Humanity](philosophy/humanity.md)
+
+### Hopes and Fears
+* [Project GlassWire](hopes_fears/glasswing_visions)
+
+### 🚀 Projects
+
+* [Mallana](projects/mallana.md)
+* [Rustifier](projects/rustifier.md)
+* [SacredBSD](projects/sacredbsd.md)
+
+### 📚 References
+
+* [Books](references/books.md)
+* [Papers](references/papers.md)
+* [People](references/people.md)
+* [Timeline](references/timeline.md)
 
 
-
-
-
-
-<!--
-**nomadstar/nomadstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
