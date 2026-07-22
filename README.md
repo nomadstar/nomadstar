@@ -54,7 +54,7 @@ Start wherever your curiosity takes you.
 ### 🚀 Projects
 
 * [Mallana](https://github.com/nomadstar/mallana)
-* [SacredBSD](projects/sacredbsd.md)
+* [SacredBSD](https://github.com/nomadstar/ckredbsd)
 
 ### 📚 References
 
