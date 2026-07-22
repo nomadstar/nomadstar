@@ -53,8 +53,7 @@ Start wherever your curiosity takes you.
 
 ### 🚀 Projects
 
-* [Mallana](projects/mallana.md)
-* [Rustifier](projects/rustifier.md)
+* [Mallana](https://github.com/nomadstar/mallana)
 * [SacredBSD](projects/sacredbsd.md)
 
 ### 📚 References
