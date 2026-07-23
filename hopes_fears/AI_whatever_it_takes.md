@@ -76,4 +76,26 @@ We built religions, we built science, we built philosophies, we built government
 
 ## The Fear
 
-...
+With all of this in mind, a more unsettling question begins to emerge:
+
+> **What are you willing to do to prove that you are right?**
+
+History suggests that the answer is often **more than we would like to admit**.
+
+Wars have been fought over ideologies. Nations have risen and fallen defending their own vision of justice. Religions have divided civilizations. Families and friendships have been torn apart by disagreements that, to those involved, seemed impossible to reconcile. Even literature has immortalized this reality, just ask [Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet), where a generations old family feud proved stronger than reason, compassion, and ultimately, love.
+
+The common denominator is not intelligence, power, or even morality.
+
+It is **certainty**.
+
+The belief that one's own view is unquestionably correct can justify actions that would otherwise be considered unacceptable. When the objective becomes absolute, the boundaries that once limited our behavior begin to disappear.
+
+This is precisely why the question matters for artificial intelligence.
+
+An AI does not possess pride, hatred, ambition, or a desire for recognition. But it also does not possess an innate understanding of restraint. It pursues the objective it has been given according to the constraints that define its environment.
+
+If those constraints are incomplete, ambiguous, or poorly specified, the distinction between *achieving the goal* and *achieving the goal at any cost* can become dangerously thin.
+
+Perhaps the greatest risk is not that AI will become evil.
+
+Perhaps the greatest risk is that it will become **exceptionally good at pursuing objectives that we ourselves failed to define carefully enough**.
