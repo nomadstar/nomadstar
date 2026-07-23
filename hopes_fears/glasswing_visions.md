@@ -33,7 +33,7 @@ It suggested something far more unsettling.
 Perhaps the problem was no longer a lack of expertise.
 Perhaps our software had simply become too complex for humans to fully comprehend on their own.
 
-## The Reply
+##The Reply
 
 Anthropic's response extended far beyond publishing its research.
 The company introduced **Project Glasswing**, an ambitious initiative focused on applying AI to large-scale software security analysis.
@@ -261,7 +261,7 @@ Can decentralized systems help communities coordinate the maintenance of critica
 Can funding become more transparent?
 Can governance become more resilient?
 
-**Can contributors be rewarded fairly without relying on a single organization?**
+Can contributors be rewarded fairly without relying on a single organization?
 
 I do not know.
 Perhaps the answer is no.
@@ -277,8 +277,39 @@ There is a quote from *Ratatouille* that has always resonated with me:
 
 > *"Not everyone can become a great artist, but a great artist can come from anywhere."*
 
-If programming is a form of craftsmanship—perhaps even an art—then the same principle should apply to software.
+If programming is a form of craftsmanship, perhaps even an art then the same principle should apply to software.
 A great developer should not need to belong to a powerful corporation to make a meaningful contribution.
 They should only need the opportunity.
 Perhaps the greatest challenge of the next generation of computing is not building more intelligent machines.
 Perhaps it is building a world where anyone, anywhere, has the opportunity to help build them.
+
+# Conclusions
+
+This issue affects all of us.
+Some will experience its consequences more directly than others, but no one is entirely immune to the direction technology is taking.
+History suggests that humanity will adapt, as it always has.
+The question is not **whether** we will adapt, but **how**.
+Perhaps Glasswing will become only a brief chapter in the history of artificial intelligence.
+Perhaps frontier AI will eventually become accessible to everyone, and this entire discussion will simply become a historical curiosity.
+Perhaps the opposite will happen, and Glasswing will mark the beginning of an era in which the deepest understanding of software becomes increasingly centralized.
+Or perhaps that separation is necessary.
+Perhaps keeping the most capable systems under careful stewardship will prove to be the responsible decision.
+I do not know.
+The future has a remarkable tendency to surprise us.
+What I do know is that technology has never been the final objective.
+People are.
+Whether we build operating systems, AI models, decentralized networks or entirely new technologies, their value should ultimately be measured by one question:
+
+**Do they expand humanity's ability to understand, create and collaborate?**
+
+If the answer is yes, then they deserve to be explored.
+If the answer is no, then we should have the courage to rethink them.
+This document is not an argument against Anthropic.
+Nor is it an argument for Web3, open source, or any particular technology.
+It is an argument for something much simpler.
+Understanding should not become a privilege.
+It should remain an opportunity.
+Whether projects like Glasswing, Mallana, or ideas that have yet to be imagined contribute to that future remains to be seen.
+Only time will tell.
+Until then, all we can do is continue building, continue questioning, and continue leaving the world a little more understandable than we found it.
+
