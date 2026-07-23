@@ -306,6 +306,17 @@ It makes us accept that the others can think, act and feel differently than us, 
 
 # Conclusions
 
+Throughout this text we have circled the same problem from different angles: the difficulty of translating human values into rules a machine can follow, the impossibility of finding universal consensus on what is just, the risk that absolute certainty can justify any means, and the open question of where the creator's responsibility ends and that of the created begins. All around a situation that makes the idea of AI alignment a very complex and daunting task.
+
+We saw that fear and survival can unite us, but only temporarily. We saw that the analogy of distributed systems machines that differ from one another yet still manage to cooperate without needing to be identical might offer a more realistic model than the search for a single mind or a single ideology. And we arrived, almost without meaning to, at an idea that isn't technical but deeply human: that perhaps disagreement isn't the obstacle to eliminate, but the very condition under which cooperation and perhaps love take on meaning.
+
+If this journey makes anything clear, it's that there is no final answer. Not for ethics, not for politics, not for artificial intelligence. The only thing that seems to hold is the willingness to keep building something together despite and not in the absence of our differences.
+
+Maybe that's why, rather than a conclusion, I'd prefer to close with an image. [Strung Out](https://www.strungoutofficial.com/), a band that I like very much, said it better than I could explain it, in their song [Tesla](https://genius.com/Strung-out-tesla-lyrics):
+
+> "We found a way to lose ourselves and just walk away
+> We found a way to leave this love behind"
+
 
 
 
