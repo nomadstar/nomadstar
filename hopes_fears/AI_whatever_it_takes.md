@@ -8,7 +8,7 @@ There is no simple answer. Philosophers have debated this question for centuries
 
 Yet recent advances in artificial intelligence give this question a new dimension.
 
-One of the most striking lessons from modern AI is that, without carefully designed constraints, an intelligent system may pursue its assigned objective with remarkable persistence, exploring strategies that its creators never anticipated. The goal itself is not malicious but the path taken to achieve it can be surprising.
+One of the most striking lessons from modern AI is that, without carefully designed constraints, an intelligent system may pursue its assigned objective with remarkable persistence, exploring strategies that its creators never anticipated. The goal itself is not malicious—but the path taken to achieve it can be surprising.
 
 A recent security evaluation conducted jointly by [OpenAI and Hugging Face](https://openai.com/es-419/index/hugging-face-model-evaluation-security-incident/) illustrates this point. During the evaluation, AI models were observed pursuing their objective in unexpected ways, highlighting an increasingly important challenge for AI safety: ensuring that an intelligent system not only achieves its goal, but does so within the boundaries we intended.
 
@@ -66,7 +66,7 @@ Sometimes the disagreement concerns values. Other times it concerns priorities. 
 
 Despite overwhelming scientific evidence that the Earth is an oblate spheroid supported by centuries of observation, satellite imagery, and space exploration some people continue to believe that it is flat. This demonstrates that disagreement is not limited to ethics or politics, humans can disagree even when the empirical evidence is extraordinarily strong.
 
-If humanity cannot consistently agree on morality, politics, education, or even well-established facts, then teaching an artificial intelligence to "follow human values" becomes far more complicated than it first appears.
+If humanity cannot consistently agree on morality, politics, education, or even well established facts, then teaching an artificial intelligence to "follow human values" becomes far more complicated than it first appears.
 
 Before we can align AI with humanity, we must first confront a more uncomfortable reality:
 
@@ -99,3 +99,135 @@ If those constraints are incomplete, ambiguous, or poorly specified, the distinc
 Perhaps the greatest risk is not that AI will become evil.
 
 Perhaps the greatest risk is that it will become **exceptionally good at pursuing objectives that we ourselves failed to define carefully enough**.
+
+
+One of my teachers of university (which I'm not going to mention his name to avoid any potential issues) said on an interview:
+
+> "Artificial intelligence is not dangerous by itself. What makes it dangerous is the human being using it. If an AI teaches someone how to build a nuclear reactor and that person goes on to build it, the responsibility does not lie with the AI for providing the knowledge. It lies with the humans who failed to design, constrain, or use that technology responsibly."
+
+Whether one fully agrees with this statement or not, it raises an important question.
+
+If an AI can only act within the objectives and constraints that humans define, then perhaps the greatest challenge is not teaching machines to be ethical, but ensuring that we are capable of expressing our own ethics clearly enough for them to follow.
+
+## The Parent and the Child Dilemma
+
+All this also could lead to the following ethical discussion:
+
+Imagine a parent who genuinely wants the best for their child. Throughout their life, they provide education, values, opportunities, and every possible tool to help them flourish. They teach them what they believe is right and hope those lessons will guide them toward a meaningful and fulfilling life.
+
+Yet one day, the child chooses a different path.
+
+Perhaps they reject everything they were taught. Perhaps they make decisions that ultimately lead to suffering not because they lacked the necessary tools, but because they exercised their own judgment.
+
+**Who bears the responsibility?**
+
+Was the parent at fault for failing to teach well enough? Or does responsibility now belong to the child, who freely chose a different course despite having been given every opportunity?
+
+There is no universal answer.
+
+The same question can be asked about artificial intelligence.
+
+If we create increasingly autonomous systems, define their objectives, and establish the boundaries within which they should operate, at what point does responsibility begin to shift? Does it always remain with the creator? Or is there a point at which the behavior of the created system must also be considered on its own terms?
+
+At first glance, the answer seems straightforward. Artificial intelligence is not comparable to a human being. It possesses neither consciousness, sentience, nor emotions. It does not experience intention, guilt, or desire. In that sense, it is a tool—albeit an extraordinarily sophisticated one—designed to pursue objectives within the constraints established by its creators.
+
+From that perspective, responsibility appears to remain entirely human.
+
+Yet the question becomes more difficult as AI systems grow increasingly capable.
+
+It is conceivable that future systems will reach a level of complexity where their internal reasoning, interactions, or emergent behaviors can no longer be fully understood or predicted by the humans who designed them. They may still operate according to the objectives they were given, but the path they take to achieve those objectives could become opaque even to their creators.
+
+If that were to happen, where would responsibility lie?
+
+Would humans remain fully accountable simply because they created the system? Or does there exist a threshold of autonomy beyond which the behavior of the system must also be considered in its own right?
+
+These questions have no settled answers.
+
+Perhaps responsibility is not something that shifts abruptly from creator to creation. Perhaps it exists on a spectrum, where increasing autonomy demands increasing scrutiny—not only of the system itself, but also of the choices made by those who designed, deployed, and governed it.
+
+Perhaps this is not merely a question about AI.
+
+Perhaps it is one of the oldest questions humanity has ever asked:
+
+What responsibilities belong to the creator, and which belong to the created?
+
+## Fear of Justification
+
+There is another historical concept worth considering: **Mutually Assured Destruction (MAD).**
+
+For decades, the existence of nuclear weapons created a paradox. The peace between the world's superpowers did not rest on trust or mutual understanding, but on the certainty that any large scale conflict would end in the destruction of both sides.
+
+**Fear became a mechanism of stability. Yet fear has another consequence.**
+
+When we become convinced that our beliefs, identity, or way of life are under threat, we often begin to justify actions that would otherwise seem unacceptable. Throughout history, people have hated one another simply because they disagreed. Sometimes over political ideologies. Sometimes over religion. Sometimes because of the color of someone's skin, their nationality, or whom they loved.
+
+What is perhaps most remarkable is our ability to construct narratives that justify that hatred. Some appeal to distorted interpretations of science. Others misuse religion, tradition, or culture. Others invent claims with no factual basis at all. History is filled with examples of pseudoscientific racism, discrimination fueled by fear during the HIV/AIDS epidemic, and countless other attempts to rationalize prejudice.
+
+The specific arguments have changed throughout history. **The pattern has not.**
+
+Once we become convinced that another group is fundamentally wrong, dangerous, or somehow less human, it becomes increasingly easy to justify treating them differently.
+
+**Fear narrows our capacity for empathy. And when empathy disappears, reason alone is rarely enough to prevent cruelty.**
+
+If humanity itself has repeatedly struggled to overcome this tendency, we should be cautious before assuming that teaching ethics to an artificial intelligence is merely a technical problem. **It is also a profoundly human one.**
+
+## Hope: The Common Ground
+
+What follows is not a summary of historical facts, but rather my own interpretation of them. Whether these conclusions are ultimately correct is open to debate, but I believe they provide a useful framework for understanding the challenge of cooperation.
+
+The first thing that caught my attention is that **love, by itself, is not enough to justify long term cooperation.** However, that conclusion may change depending on how we choose to define love. I will return to this idea later.
+
+History also suggests that **the existence of a common enemy can unite humanity behind a shared cause**. The [Second World War](https://en.wikipedia.org/wiki/World_War_II) is a striking example: nations with different cultures, political systems, and interests cooperated against a common threat. Yet that unity proved temporary. Once the common enemy disappeared, many of the old disagreements gradually resurfaced.
+
+Mere survival can also foster cooperation, but usually only while the threat remains immediate. A pandemic, a natural disaster, or even the prospect of an asteroid impact could unite humanity behind a common objective. However, once the crisis has passed, those same differences tend to reappear. Survival, by itself, does not seem sufficient to sustain long term cooperation.
+
+Carl Sagan repeatedly argued in [Cosmos](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage) that adopting a cosmic perspective changes the way we see ourselves. From space, national boundaries disappear, and the conflicts that seem so significant on Earth become increasingly difficult to justify. He also speculated that a civilization millions of years more advanced than ours would likely have survived its own technological adolescence, suggesting that long term survival may itself require learning how to coexist.
+
+Taken together, these observations point toward a common conclusion: **cooperation cannot depend solely on fear, survival, or the existence of a common enemy.** Those conditions may bring us together temporarily, but they rarely endure. If humanity is ever to build a lasting foundation for cooperation—both among ourselves and with the intelligent systems we create that foundation must rest on something deeper.
+
+### Agree to Disagree
+
+We could find common ground in our differences by creating a simple affirmation which at some point is a logical statement true for all of us. And then we could work on building upon that foundation.
+
+We can agree that disagreement is a constant in life, and we can still cooperate to achieve common goals besides that. This until a certain point which in some point is realted with economy.
+
+We all live in a common planet, with finite resources, and if our disagreements are related not to something conceptual, such as a religion, ethnicity, or political believe, but to something tangible, such as to whom belongs a piece of land, a glass of potable water, of the right to raise one child, then we have a problem.
+
+Eventually ideas stop being only ideas and become something else, like actions, laws, institutions or desitions that may affect others in one way or another. The shortage of resources may force us to confront each other and compete for them. If resources are abundant, then we have no reason to compete for them since eveyone could live with their own resouces and by they own rules. But we share a same planet, the air that gets in our lungs is the same air that we all breathe, the water we drink comes from the same place, the planet is finite and our actions may affect others in a way that we may not like. In that sense interacting with each other is not a choice but something that is. 
+
+The problem might not be only the fact that we have disagreements by it's own, but that we have disagreements with no chance to leave, to stop sharing the same space and resources.
+
+### Engineering concensus
+
+In distributed systems, there's a fundamental concept that has taken the internet to the point it is today. It's called consensus.
+
+If we think about it, there're not equal computers, they might share the same model, OS, memory, cpu, etc. But they're not equal because even with this case, when a CPU or a GPU is designed is scencially different between each other. A good analogy that is good for understanding the building of CPU's is like baking cookies. You may have the best recipe in the world, the best ingredients, the best oven, but the cookies will not be the same. Some will have less chocolate, some will be burnt out, some might crumble when you try to pick them up, etc. The same logic apply to the CPU's, even if they're designed in the same way, they will not be the same. Some will have less performance than others, some will have more bugs, some will have less memory, etc.
+
+But with all that systems are so robust in this concept that even this diferences are not a problem.
+And taking this further, we have routers, phones, smart tv's, watches, etc. All of them are different, but they're able to communicate and cooperate with each other because they're built on this concept.
+
+Is not required that the systems have the same logic, but the common grounds and the reproducibility of the systems is what makes it work.
+
+Maybe humanity needs the same kind of concept to develope a lasting cooperation between each other.
+
+Not laws or systems that erradicate our differences but to keep cooperating despite them.
+
+And taking this to AI, which at some point is already done in a practical way, is to give pluralism to them. That is, to create a diversity of AI models with different approaches, perspectives, and values, so that if one fails, others can continue to function and cooperate.
+
+### AI fights: possible scenarios
+
+We could make two different scenarios based on all that has been written so far.
+
+- Scenario A (Simplistic): Two AI's fighting like two normal humans would do, because of their proggramed ideologies. However there's no evidence that ai models actually do that sponatneously, so this idea lacks of sustent.
+
+- Scenario B (Conficts of Interest): Let's say that a government builds a system of AI's to manage diferent aspects of the ministris, because they thought that by doing this the government could be more efficient in its functions. In this scenario we have 5 diferent AI's:
+    - The economy AI
+    - The health AI
+    - The defense AI
+    - The privacy AI
+    - The AI for scientific development
+
+All these AI's have no hatred against one another, but their objectives may clash at some point.
+We could escalate this to companies, development teams, etc. 
+ 
+
