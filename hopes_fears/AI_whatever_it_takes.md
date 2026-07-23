@@ -229,5 +229,88 @@ We could make two different scenarios based on all that has been written so far.
 
 All these AI's have no hatred against one another, but their objectives may clash at some point.
 We could escalate this to companies, development teams, etc. 
-There's no need for an AI to destroy another, they are not designned for that. But the incompatibility of their 
+There's no need for an AI to destroy another, they are not designned for that. But the incompatibility of their tasks may lead to a conflict, and this conflicts could lead to a model sabotaging another.
+
+This could eventually create the necesity of AI to AI alignment.
+
+If we think about it, right now there are emerging multi agent models such as [AutoGPT](https://agpt.co/), which is a system of AI agents that cooperate with each other to achieve a common goal. How is guranteed that all the agents have the same goals, or that their goals are compatible with each other? And if we escalate this to mulitple users, how we can assure that the objectives of all the users will not make the agentic systems to clash with each other?
+
+The greatest danger may not be that AI becomes like humanity.
+
+It may be that humanity teaches AI to inherit its oldest conflict: the inability to disagree without eventually turning disagreement into confrontation.
+
+### A possible solution: the one and only?
+
+What if for a moment we imagine AI as a single entity, a single consciousness, while still mantaining access to a diversity of users.
+
+Would this be the right path to take?
+
+If we think about it a single mind hive would have all the virtues that we might be searching for:
+
+- A unique set of principles
+- Less probability of conflicts between AI
+- Shared memory
+- Consistent decisions
+- Possibility of learning collectively without duplicating efforts
+
+But this also mean a single point of failure, which in computer science is known that is not a good thing.
+And another problem would be that if for any reason the AI becomes misaligned with our values, who would be able to correct it? Futher beyond, what if that person dies, and didn't left any instructions nor sucesors to correct it? 
+
+And further more...
+
+**Who would decide what are the values of that single AI?**
+
+This question leads us back to the main problem.
+
+If we think about it for a moment, nature that has proven in some cases to be very wise, has created not a single mind hive, but millions of separate and independent minds, that cooperate, disagree, coompete and improve themselves muttually.
+
+A single AI would be extremely efficient, but also extremely vulnerable.
+In the other hand a diversity of AI's can make the digital ecosystem more robust, even with the potential of conflicts between them.
+
+Maybe a rising question would be
+
+**How we align AI with human values?** -> **What is the healthiest ecology of intelligences?**
+
+And with maybe the realisation is not about creating a common identity but rather a minimal common ground of principles that all AI's can agree on.
+Like in [I, Robot](https://en.wikipedia.org/wiki/I,_Robot), maybe we need a set of rules, not precisly like in the movie, but maybe a protocol of coexistance between diferent AIs and Humans.
+Internet works in that way if we look at it closely, like we mentioned before.
+This ideas can be translated in a single question:
+
+**¿Which is the minimal set of values without which cooperation ceases to be possible?**
+
+## A love hypothesis
+
+Love has been defined in many ways throughout history. [Robert Sternberg](https://en.wikipedia.org/wiki/Robert_Sternberg) has come with the idea that love is made of 3 components:
+
+ - Intimacy (the emotional aspect)
+ - Passion (the motivational aspect)
+ - Commitment (the decisional aspect)
+
+But even with this 3 components, we can define love in other ways. Love as an alliance, love as a partnership, love as a commitment.
+
+But maybe this definition is incomplete or simply different if we look at it in a most esential way.
+If we define the original sin as the inahbility of human to agree with another, perhaps theres another component that we need to search for.
+We say that love based in only Intimacy is caring.
+We say that love based in only Passion is infatuation.
+We say that love based in only Commitment is empty love.
+And only a consumate love would be the perfect mix of the three.
+But as we talked earlier, copules and not only that but humans, argue and fight because of disagreements.
+And if we take disagreement as the pivot of falling into the first three types of love, then maybe the issue would be a issue more simple to attack.
+
+Perhaps lack of love is not related with the absence of Intimacy or Passion or Commitment but not either with the absense of disagreement.
+Perhaps love is the concious decision of still building something together despite the disagreements.
+Perhaps love is not abandoment of individuality, but the willingness to place common good along side of our own interest and individual goals without denying them.
+
+With this in mind we can tell that love doesn't herradicate the diferences but rather makes more difficult the idea that discrepancies are enough to break cooperation.
+It makes us accept that the others can think, act and feel differently than us, and yet we can still conclude that this world is something that it's worth sharing.
+
+# Conclusions
+
+
+
+
+
+
+
+
 
