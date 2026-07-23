@@ -229,5 +229,5 @@ We could make two different scenarios based on all that has been written so far.
 
 All these AI's have no hatred against one another, but their objectives may clash at some point.
 We could escalate this to companies, development teams, etc. 
- 
+There's no need for an AI to destroy another, they are not designned for that. But the incompatibility of their 
 
