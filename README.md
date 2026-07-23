@@ -33,22 +33,9 @@ Start wherever your curiosity takes you.
 
 ## Table of Contents
 
-### 📖 Foundations
-
-* [Vision](vision.md)
-* [Mission](mission.md)
-* [Principles](principles.md)
-* [Values](values.md)
-
-### 🧠 Philosophy
-
-* [Knowledge](philosophy/knowledge.md)
-* [Freedom](philosophy/freedom.md)
-* [Trust](philosophy/trust.md)
-* [Decentralization](philosophy/decentralization.md)
-* [Humanity](philosophy/humanity.md)
 
 ### Hopes and Fears
+
 * [Project GlassWire](hopes_fears/glasswing_visions.md)
 * [Ai:Whatever it takes?](hopes_fears/AI_whatever_it_takes.md)
 
@@ -56,12 +43,4 @@ Start wherever your curiosity takes you.
 
 * [Mallana](https://github.com/nomadstar/mallana)
 * [SacredBSD](https://github.com/nomadstar/ckredbsd)
-
-### 📚 References
-
-* [Books](references/books.md)
-* [Papers](references/papers.md)
-* [People](references/people.md)
-* [Timeline](references/timeline.md)
-
 
