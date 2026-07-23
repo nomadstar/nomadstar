@@ -68,6 +68,7 @@ Beyond asking whether restricting access to Mythos is ultimately good or bad, it
 Consider Mythos itself in comparison with previous generations of frontier models, particularly Claude Opus 4.6.
 As technology creator Nate Gentile described while discussing local AI models:
 > "I bought two 128 GB RAM modules (...) and a graphics card with 96 GB of VRAM (...) I try to run a model that is much worse than Opus. (...) I start chatting and it says: 'You ran out of context because you ran out of RAM.' Basically I can run five prompts, and that's it."
+
 Although he was not referring to Mythos specifically, the underlying limitation is the same.
 Running increasingly capable language models requires increasingly large amounts of memory—not only to store their parameters, but also to maintain enough context for meaningful reasoning.
 Anthropic itself describes Mythos as a significant step beyond Claude Opus. Whether such a model can realistically run on consumer hardware is, at the very least, a difficult engineering challenge.
