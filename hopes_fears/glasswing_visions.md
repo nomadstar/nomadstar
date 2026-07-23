@@ -33,7 +33,7 @@ It suggested something far more unsettling.
 Perhaps the problem was no longer a lack of expertise.
 Perhaps our software had simply become too complex for humans to fully comprehend on their own.
 
-##The Reply
+## The Reply
 
 Anthropic's response extended far beyond publishing its research.
 The company introduced **Project Glasswing**, an ambitious initiative focused on applying AI to large-scale software security analysis.
