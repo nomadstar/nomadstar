@@ -49,7 +49,7 @@ Start wherever your curiosity takes you.
 * [Humanity](philosophy/humanity.md)
 
 ### Hopes and Fears
-* [Project GlassWire](hopes_fears/glasswing_visions)
+* [Project GlassWire](hopes_fears/glasswing_visions.md)
 
 ### 🚀 Projects
 
