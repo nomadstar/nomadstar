@@ -8,7 +8,7 @@ There is no simple answer. Philosophers have debated this question for centuries
 
 Yet recent advances in artificial intelligence give this question a new dimension.
 
-One of the most striking lessons from modern AI is that, without carefully designed constraints, an intelligent system may pursue its assigned objective with remarkable persistence, exploring strategies that its creators never anticipated. The goal itself is not malicious—but the path taken to achieve it can be surprising.
+One of the most striking lessons from modern AI is that, without carefully designed constraints, an intelligent system may pursue its assigned objective with remarkable persistence, exploring strategies that its creators never anticipated. The goal itself is not malicious but the path taken to achieve it can be surprising.
 
 A recent security evaluation conducted jointly by [OpenAI and Hugging Face](https://openai.com/es-419/index/hugging-face-model-evaluation-security-incident/) illustrates this point. During the evaluation, AI models were observed pursuing their objective in unexpected ways, highlighting an increasingly important challenge for AI safety: ensuring that an intelligent system not only achieves its goal, but does so within the boundaries we intended.
 
