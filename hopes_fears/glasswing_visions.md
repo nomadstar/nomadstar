@@ -21,6 +21,7 @@ Some of the most trusted and heavily reviewed codebases in the world.
 - FFmpeg.
 - The FreeBSD kernel.
 - The Linux kernel.
+
 These projects had been examined by thousands of developers, security researchers, fuzzers and static analysis tools over the years.
 Yet Mythos continued to uncover vulnerabilities that had remained unnoticed for ten, twenty, and in one case, twenty-seven years.
 Some were subtle memory corruption bugs.
