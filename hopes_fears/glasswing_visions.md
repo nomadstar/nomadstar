@@ -42,7 +42,7 @@ Rather than replacing security engineers, Glasswing was designed to augment them
 The vision was compelling.
 As software continues to grow in size and complexity, AI could become an essential collaborator—helping engineers understand systems that have become increasingly difficult for any individual to fully comprehend.
 If Mythos demonstrated the problem, Glasswing represented one possible solution.
-However... there's a catch in this hole situation.
+However... there's a catch in this whole situation.
 
 ## The Issue
 
@@ -200,24 +200,24 @@ If the previous chapters are correct, then a natural question emerges:
 
 What should we build?
 
-When I made [Mallana](https://github.com/nomadstar/mallana), I didn't made it because I just wanted to build an AI for X reason.
+When I made [Mallana](https://github.com/nomadstar/mallana), I didn't make it because I just wanted to build an AI for X reason.
 There are tons of free AI tools out there, much better than what I could ever build.
-However, if for any reason all those services vanish, we would be left with nothing more than just our computers and the vulnerabilites they contain.
-Is all about honesty and keeping the openess of things, so we can build a better future for everyone.
-I don't think the Glasswing Project is any bad if eventually helps systems become more secure for everyone, and I believe that's the idea.
-But a great builder, Auguste Kerckhoffs made a principle back in 1883, that it says:
+However, if for any reason all those services vanish, we would be left with nothing more than just our computers and the vulnerabilities they contain.
+It is all about honesty and keeping the openness of things, so we can build a better future for everyone.
+I don't think the Glasswing Project is bad if it eventually helps systems become more secure for everyone, and I believe that's the idea.
+But a great builder, Auguste Kerckhoffs, made a principle back in 1883 that says:
 > "A cryptosystem should be secure even if everything about the system, except the key, is public knowledge."
 I don't consider myself a pentester, nor a security researcher, but I like building things. 
-And if this is truth, then I believe the project Glasswing should be open-sourced.
+And if this is true, then I believe the project Glasswing should be open-sourced.
 That (for very fair reasons) isn't going to happen, which leads us to the point of this document.
 As you might read in other documents here, I also said:
 
-> "Someone who's looking for fairness in life is probably loosing it's time, as life is inherently unfair."
+> "Someone who's looking for fairness in life is probably losing their time, as life is inherently unfair."
 
 But that doesn't crash with what I'm about to say now:
 
 Fairness is not a law of nature. It is a human construct. And like every invention, it exists only because we choose to build it.
-And that means not only to guarantee the right to be free, but also the right to be have privacy, safety, autonomy, and above all, the right to be good humans. 
+And that means not only to guarantee the right to be free, but also the right to have privacy, safety, autonomy, and above all, the right to be good humans. 
 And I know in many places this isn't a reality for many people, but that doesn't mean we should stop trying.
 
 ### Possible Outcome: Sustaining Open Source
@@ -279,7 +279,7 @@ There is a quote from *Ratatouille* that has always resonated with me:
 
 > *"Not everyone can become a great artist, but a great artist can come from anywhere."*
 
-If programming is a form of craftsmanship, perhaps even an art then the same principle should apply to software.
+If programming is a form of craftsmanship, perhaps even an art, then the same principle should apply to software.
 A great developer should not need to belong to a powerful corporation to make a meaningful contribution.
 They should only need the opportunity.
 Perhaps the greatest challenge of the next generation of computing is not building more intelligent machines.
