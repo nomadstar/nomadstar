@@ -17,15 +17,15 @@ Software that had been audited for decades was still hiding vulnerabilities.
 Not obscure hobby projects.
 Not abandoned repositories.
 Some of the most trusted and heavily reviewed codebases in the world.
-OpenBSD.
-FFmpeg.
-The FreeBSD kernel.
-The Linux kernel.
+- OpenBSD.
+- FFmpeg.
+- The FreeBSD kernel.
+- The Linux kernel.
 These projects had been examined by thousands of developers, security researchers, fuzzers and static analysis tools over the years.
-Yet Mythos continued to uncover vulnerabilities that had remained unnoticed for ten, twenty, and in one case, twenty-seven years. :contentReference[oaicite:1]{index=1}
+Yet Mythos continued to uncover vulnerabilities that had remained unnoticed for ten, twenty, and in one case, twenty-seven years.
 Some were subtle memory corruption bugs.
 Others were race conditions.
-Others were logic flaws that emerged only when the model reasoned about the software's intended behavior rather than simply its implementation. :contentReference[oaicite:2]{index=2}
+Others were logic flaws that emerged only when the model reasoned about the software's intended behavior rather than simply its implementation.
 The implications were difficult to ignore.
 For decades, we believed that enough reviewers could eventually understand any sufficiently important system.
 Mythos challenged that assumption.
