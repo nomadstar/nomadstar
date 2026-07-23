@@ -261,7 +261,7 @@ Can decentralized systems help communities coordinate the maintenance of critica
 Can funding become more transparent?
 Can governance become more resilient?
 
-Can contributors be rewarded fairly without relying on a single organization?
+**Can contributors be rewarded fairly without relying on a single organization?**
 
 I do not know.
 Perhaps the answer is no.
