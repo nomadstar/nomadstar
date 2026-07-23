@@ -36,13 +36,13 @@ That raises an even more profound question:
 
 The answer to that question may ultimately define not only the future of AI, but also the future of our relationship with it.
 
-And is fair to say that is not and it might not be ever an answer.
+And it is fair to say that there is not, and might never be, an answer.
 
-Cultures changes over time, people changes over time, values changes over time, and what we believe that is important is constantly evolving.
+Cultures change over time, people change over time, values change over time, and what we believe that is important is constantly evolving.
 
 We started with the idea that the strongest should rule above all else, those who could force their will on others, impose their vision of the world on those who could not resist.
-But in some point that started to change and we started to believe that the most fair should rule above all else, those who could provide the most benefit to the most people.
-But I think with this raises another question that would eventually guide this matter.
+But at some point that started to change and we started to believe that the most fair should rule above all else, those who could provide the most benefit to the most people.
+But I think this raises another question that would eventually guide this matter.
 
 **If we use fairness as a guiding principle, who should define fairness?**
 
@@ -64,7 +64,7 @@ These disagreements may seem unrelated, but they all reveal the same underlying 
 
 Sometimes the disagreement concerns values. Other times it concerns priorities. Occasionally, it even concerns reality itself.
 
-Despite overwhelming scientific evidence that the Earth is an oblate spheroid supported by centuries of observation, satellite imagery, and space exploration some people continue to believe that it is flat. This demonstrates that disagreement is not limited to ethics or politics, humans can disagree even when the empirical evidence is extraordinarily strong.
+Despite overwhelming scientific evidence that the Earth is an oblate spheroid supported by centuries of observation, satellite imagery, and space exploration, some people continue to believe that it is flat. This demonstrates that disagreement is not limited to ethics or politics, humans can disagree even when the empirical evidence is extraordinarily strong.
 
 If humanity cannot consistently agree on morality, politics, education, or even well established facts, then teaching an artificial intelligence to "follow human values" becomes far more complicated than it first appears.
 
@@ -189,28 +189,28 @@ Taken together, these observations point toward a common conclusion: **cooperati
 
 We could find common ground in our differences by creating a simple affirmation which at some point is a logical statement true for all of us. And then we could work on building upon that foundation.
 
-We can agree that disagreement is a constant in life, and we can still cooperate to achieve common goals besides that. This until a certain point which in some point is realted with economy.
+We can agree that disagreement is a constant in life, and we can still cooperate to achieve common goals besides that. This until a certain point which in some point is related with economy.
 
-We all live in a common planet, with finite resources, and if our disagreements are related not to something conceptual, such as a religion, ethnicity, or political believe, but to something tangible, such as to whom belongs a piece of land, a glass of potable water, of the right to raise one child, then we have a problem.
+We all live in a common planet, with finite resources, and if our disagreements are related not to something conceptual, such as a religion, ethnicity, or political belief, but to something tangible, such as to whom belongs a piece of land, a glass of potable water, or the right to raise one child, then we have a problem.
 
-Eventually ideas stop being only ideas and become something else, like actions, laws, institutions or desitions that may affect others in one way or another. The shortage of resources may force us to confront each other and compete for them. If resources are abundant, then we have no reason to compete for them since eveyone could live with their own resouces and by they own rules. But we share a same planet, the air that gets in our lungs is the same air that we all breathe, the water we drink comes from the same place, the planet is finite and our actions may affect others in a way that we may not like. In that sense interacting with each other is not a choice but something that is. 
+Eventually ideas stop being only ideas and become something else, like actions, laws, institutions or decisions that may affect others in one way or another. The shortage of resources may force us to confront each other and compete for them. If resources are abundant, then we have no reason to compete for them since everyone could live with their own resources and by their own rules. But we share a same planet, the air that gets in our lungs is the same air that we all breathe, the water we drink comes from the same place, the planet is finite and our actions may affect others in a way that we may not like. In that sense interacting with each other is not a choice but something that is. 
 
-The problem might not be only the fact that we have disagreements by it's own, but that we have disagreements with no chance to leave, to stop sharing the same space and resources.
+The problem might not be only the fact that we have disagreements on its own, but that we have disagreements with no chance to leave, to stop sharing the same space and resources.
 
-### Engineering concensus
+### Engineering consensus
 
 In distributed systems, there's a fundamental concept that has taken the internet to the point it is today. It's called consensus.
 
-If we think about it, there're not equal computers, they might share the same model, OS, memory, cpu, etc. But they're not equal because even with this case, when a CPU or a GPU is designed is scencially different between each other. A good analogy that is good for understanding the building of CPU's is like baking cookies. You may have the best recipe in the world, the best ingredients, the best oven, but the cookies will not be the same. Some will have less chocolate, some will be burnt out, some might crumble when you try to pick them up, etc. The same logic apply to the CPU's, even if they're designed in the same way, they will not be the same. Some will have less performance than others, some will have more bugs, some will have less memory, etc.
+If we think about it, there're not equal computers, they might share the same model, OS, memory, cpu, etc. But they're not equal because even with this case, when a CPU or a GPU is designed is essentially different between each other. A good analogy that is good for understanding the building of CPU's is like baking cookies. You may have the best recipe in the world, the best ingredients, the best oven, but the cookies will not be the same. Some will have less chocolate, some will be burnt out, some might crumble when you try to pick them up, etc. The same logic apply to the CPU's, even if they're designed in the same way, they will not be the same. Some will have less performance than others, some will have more bugs, some will have less memory, etc.
 
-But with all that systems are so robust in this concept that even this diferences are not a problem.
+But with all that systems are so robust in this concept that even these differences are not a problem.
 And taking this further, we have routers, phones, smart tv's, watches, etc. All of them are different, but they're able to communicate and cooperate with each other because they're built on this concept.
 
 Is not required that the systems have the same logic, but the common grounds and the reproducibility of the systems is what makes it work.
 
-Maybe humanity needs the same kind of concept to develope a lasting cooperation between each other.
+Maybe humanity needs the same kind of concept to develop a lasting cooperation between each other.
 
-Not laws or systems that erradicate our differences but to keep cooperating despite them.
+Not laws or systems that eradicate our differences but to keep cooperating despite them.
 
 And taking this to AI, which at some point is already done in a practical way, is to give pluralism to them. That is, to create a diversity of AI models with different approaches, perspectives, and values, so that if one fails, others can continue to function and cooperate.
 
@@ -218,9 +218,9 @@ And taking this to AI, which at some point is already done in a practical way, i
 
 We could make two different scenarios based on all that has been written so far.
 
-- Scenario A (Simplistic): Two AI's fighting like two normal humans would do, because of their proggramed ideologies. However there's no evidence that ai models actually do that sponatneously, so this idea lacks of sustent.
+- Scenario A (Simplistic): Two AI's fighting like two normal humans would do, because of their programmed ideologies. However there's no evidence that AI models actually do that spontaneously, so this idea lacks substance.
 
-- Scenario B (Conficts of Interest): Let's say that a government builds a system of AI's to manage diferent aspects of the ministris, because they thought that by doing this the government could be more efficient in its functions. In this scenario we have 5 diferent AI's:
+- Scenario B (Conflicts of Interest): Let's say that a government builds a system of AI's to manage different aspects of the ministries, because they thought that by doing this the government could be more efficient in its functions. In this scenario we have 5 different AI's:
     - The economy AI
     - The health AI
     - The defense AI
@@ -229,11 +229,11 @@ We could make two different scenarios based on all that has been written so far.
 
 All these AI's have no hatred against one another, but their objectives may clash at some point.
 We could escalate this to companies, development teams, etc. 
-There's no need for an AI to destroy another, they are not designned for that. But the incompatibility of their tasks may lead to a conflict, and this conflicts could lead to a model sabotaging another.
+There's no need for an AI to destroy another, they are not designed for that. But the incompatibility of their tasks may lead to a conflict, and these conflicts could lead to a model sabotaging another.
 
-This could eventually create the necesity of AI to AI alignment.
+This could eventually create the necessity of AI to AI alignment.
 
-If we think about it, right now there are emerging multi agent models such as [AutoGPT](https://agpt.co/), which is a system of AI agents that cooperate with each other to achieve a common goal. How is guranteed that all the agents have the same goals, or that their goals are compatible with each other? And if we escalate this to mulitple users, how we can assure that the objectives of all the users will not make the agentic systems to clash with each other?
+If we think about it, right now there are emerging multi agent models such as [AutoGPT](https://agpt.co/), which is a system of AI agents that cooperate with each other to achieve a common goal. How is guaranteed that all the agents have the same goals, or that their goals are compatible with each other? And if we escalate this to multiple users, how we can assure that the objectives of all the users will not make the agentic systems clash with each other?
 
 The greatest danger may not be that AI becomes like humanity.
 
@@ -241,7 +241,7 @@ It may be that humanity teaches AI to inherit its oldest conflict: the inability
 
 ### A possible solution: the one and only?
 
-What if for a moment we imagine AI as a single entity, a single consciousness, while still mantaining access to a diversity of users.
+What if for a moment we imagine AI as a single entity, a single consciousness, while still maintaining access to a diversity of users.
 
 Would this be the right path to take?
 
@@ -254,7 +254,7 @@ If we think about it a single mind hive would have all the virtues that we might
 - Possibility of learning collectively without duplicating efforts
 
 But this also mean a single point of failure, which in computer science is known that is not a good thing.
-And another problem would be that if for any reason the AI becomes misaligned with our values, who would be able to correct it? Futher beyond, what if that person dies, and didn't left any instructions nor sucesors to correct it? 
+And another problem would be that if for any reason the AI becomes misaligned with our values, who would be able to correct it? Further beyond, what if that person dies, and didn't leave any instructions nor successors to correct it? 
 
 And further more...
 
@@ -262,21 +262,21 @@ And further more...
 
 This question leads us back to the main problem.
 
-If we think about it for a moment, nature that has proven in some cases to be very wise, has created not a single mind hive, but millions of separate and independent minds, that cooperate, disagree, coompete and improve themselves muttually.
+If we think about it for a moment, nature that has proven in some cases to be very wise, has created not a single mind hive, but millions of separate and independent minds, that cooperate, disagree, compete and improve themselves mutually.
 
 A single AI would be extremely efficient, but also extremely vulnerable.
-In the other hand a diversity of AI's can make the digital ecosystem more robust, even with the potential of conflicts between them.
+On the other hand a diversity of AI's can make the digital ecosystem more robust, even with the potential of conflicts between them.
 
 Maybe a rising question would be
 
 **How we align AI with human values?** -> **What is the healthiest ecology of intelligences?**
 
 And with maybe the realisation is not about creating a common identity but rather a minimal common ground of principles that all AI's can agree on.
-Like in [I, Robot](https://en.wikipedia.org/wiki/I,_Robot), maybe we need a set of rules, not precisly like in the movie, but maybe a protocol of coexistance between diferent AIs and Humans.
+Like in [I, Robot](https://en.wikipedia.org/wiki/I,_Robot), maybe we need a set of rules, not precisely like in the movie, but maybe a protocol of coexistence between different AIs and Humans.
 Internet works in that way if we look at it closely, like we mentioned before.
-This ideas can be translated in a single question:
+These ideas can be translated in a single question:
 
-**¿Which is the minimal set of values without which cooperation ceases to be possible?**
+**Which is the minimal set of values without which cooperation ceases to be possible?**
 
 ## A love hypothesis
 
@@ -288,20 +288,20 @@ Love has been defined in many ways throughout history. [Robert Sternberg](https:
 
 But even with this 3 components, we can define love in other ways. Love as an alliance, love as a partnership, love as a commitment.
 
-But maybe this definition is incomplete or simply different if we look at it in a most esential way.
-If we define the original sin as the inahbility of human to agree with another, perhaps theres another component that we need to search for.
-We say that love based in only Intimacy is caring.
-We say that love based in only Passion is infatuation.
-We say that love based in only Commitment is empty love.
-And only a consumate love would be the perfect mix of the three.
-But as we talked earlier, copules and not only that but humans, argue and fight because of disagreements.
-And if we take disagreement as the pivot of falling into the first three types of love, then maybe the issue would be a issue more simple to attack.
+But maybe this definition is incomplete or simply different if we look at it in a most essential way.
+If we define the original sin as the inability of humans to agree with another, perhaps there's another component that we need to search for.
+We say that love based only on Intimacy is caring.
+We say that love based only on Passion is infatuation.
+We say that love based only on Commitment is empty love.
+And only a consummate love would be the perfect mix of the three.
+But as we talked earlier, couples and not only that but humans, argue and fight because of disagreements.
+And if we take disagreement as the pivot of falling into the first three types of love, then maybe the issue would be an issue more simple to attack.
 
-Perhaps lack of love is not related with the absence of Intimacy or Passion or Commitment but not either with the absense of disagreement.
-Perhaps love is the concious decision of still building something together despite the disagreements.
-Perhaps love is not abandoment of individuality, but the willingness to place common good along side of our own interest and individual goals without denying them.
+Perhaps lack of love is not related with the absence of Intimacy or Passion or Commitment but not either with the absence of disagreement.
+Perhaps love is the conscious decision of still building something together despite the disagreements.
+Perhaps love is not abandonment of individuality, but the willingness to place common good alongside of our own interest and individual goals without denying them.
 
-With this in mind we can tell that love doesn't herradicate the diferences but rather makes more difficult the idea that discrepancies are enough to break cooperation.
+With this in mind we can tell that love doesn't eradicate the differences but rather makes more difficult the idea that discrepancies are enough to break cooperation.
 It makes us accept that the others can think, act and feel differently than us, and yet we can still conclude that this world is something that it's worth sharing.
 
 # Conclusions
