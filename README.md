@@ -37,8 +37,9 @@ Start wherever your curiosity takes you.
 ### Hopes and Fears
 > Reflections on the principles, risks and human consequences that guide my engineering decisions.
 
-* [Project GlassWire](hopes_fears/glasswing_visions.md)
-* [AI: Whatever It Takes?](hopes_fears/AI_whatever_it_takes.md)
+* [Project GlassWire](hopes_fears/glasswing_visions.es.md)
+* [AI: Whatever It Takes?](hopes_fears/AI_whatever_it_takes.es.md)
+
 
 ### 🚀 Projects
 
