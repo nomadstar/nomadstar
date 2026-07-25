@@ -46,8 +46,61 @@ Leaving traces transforms trust from an act of faith into something that can be 
 
 Instead of asking others to believe that a decision was reasonable, we allow them to inspect the reasoning behind it. Instead of expecting future contributors to guess our intentions, we leave evidence they can challenge, correct, or improve.
 
-However, regarding back on trust, there's also another issue that is not related about how we do things, but rather what intentions we have.
+However, returning to the problem of trust, there is another danger that documentation alone cannot resolve.
 
-## The lie
+Leaving traces helps us understand what was done. It does not necessarily reveal why it was done, whether the explanation is honest, or whether the traces themselves were created to deceive us.
+
+A system may document its actions and still lie about its intentions.
+
+## Betrayal: When trust becomes a weapon
+
+Returning to the Trojan Horse, the plan succeeded because the Greeks did not merely conceal their soldiers. They constructed a lie around something the Trojans had legitimate reasons to respect.
+
+According to the story, Sinon persuaded the Trojans that the horse was a sacred offering to Athena. Rejecting or destroying it could therefore be interpreted not simply as refusing an enemy’s gift, but as offending a goddess.
+
+This was not an arbitrary lie.
+
+It was designed around the Trojans’ beliefs, fears, and sense of reverence. The Greeks did not ask them to abandon what they trusted. They used that trust to guide them toward the very decision that would destroy them.
+
+The horse appeared to carry evidence of peaceful intentions. Its religious meaning made the deception more convincing, because it transformed suspicion into a possible act of sacrilege.
+
+In this way, the Greeks turned something sacred into a mechanism of war.
+
+This reveals one of the most dangerous properties of betrayal: it rarely succeeds by presenting itself openly as hostility. Betrayal succeeds by imitating the signs through which trust is normally recognized.
+
+A malicious actor may imitate cooperation.
+
+A false contribution may imitate legitimate work.
+
+A fabricated record may imitate documentation.
+
+A harmful system may imitate safety.
+
+The better the imitation, the more dangerous the lie becomes.
+
+This presents a deeper challenge than the absence of information. When there are no traces, we know that our understanding is incomplete. But when false traces exist, we may believe that we understand something that was deliberately constructed to mislead us.
+
+Documentation therefore cannot be treated as truth merely because it exists.
+
+A trace is a claim.
+
+It tells us that something happened, that a decision had a particular purpose, or that a person acted with certain intentions. Like every claim, it must remain open to comparison, contradiction, and verification.
+
+The answer cannot be permanent suspicion. If every explanation is assumed to be false and every participant is treated as a potential traitor, cooperation becomes impossible.
+
+But neither can the answer be blind acceptance.
+
+Trustworthy systems must make deception difficult without making cooperation unbearable. They must preserve evidence without assuming that every piece of evidence is honest. They must allow claims to be challenged, compare independent accounts, and distinguish between mistakes, disagreements, and deliberate manipulation.
+
+The Trojan Horse was dangerous not because the Trojans believed in nothing.
+
+It was dangerous because the Greeks understood what they believed in and learned how to imitate it.
+
+The lesson is not that we must stop trusting what appears sacred, generous, or cooperative.
+
+The lesson is that appearances alone cannot carry the full weight of trust.
+
+## Social engineering: Vulnerability among us all
+
 
 

@@ -67,7 +67,7 @@ The question explored throughout this library is different.
 
 Beyond asking whether restricting access to Mythos is ultimately good or bad, it is worth focusing on the technical challenge that made such a decision understandable in the first place.
 Consider Mythos itself in comparison with previous generations of frontier models, particularly Claude Opus 4.6.
-As technology creator Nate Gentile described while discussing local AI models:
+As technology creator [Nate Gentile](https://www.youtube.com/shorts/ImKo5rVlFfI) described while discussing local AI models:
 > "I bought two 128 GB RAM modules (...) and a graphics card with 96 GB of VRAM (...) I try to run a model that is much worse than Opus. (...) I start chatting and it says: 'You ran out of context because you ran out of RAM.' Basically I can run five prompts, and that's it."
 
 Although he was not referring to Mythos specifically, the underlying limitation is the same.

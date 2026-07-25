@@ -68,7 +68,7 @@ La pregunta que se explora a lo largo de esta biblioteca es otra.
 
 Más allá de preguntarnos si restringir el acceso a Mythos es finalmente bueno o malo, vale la pena enfocarse en el desafío técnico que hizo comprensible tal decisión en primer lugar.
 Consideremos a Mythos en comparación con generaciones previas de modelos de frontera, en particular Claude Opus 4.6.
-Como describió el creador de tecnología Nate Gentile al hablar sobre modelos de IA locales:
+Como describió el creador de tecnología [Nate Gentile](https://www.youtube.com/shorts/ImKo5rVlFfI) al hablar sobre modelos de IA locales:
 > "Compré dos módulos de RAM de 128 GB (...) y una tarjeta gráfica con 96 GB de VRAM (...) Intento correr un modelo que es mucho peor que Opus. (...) Empiezo a chatear y me dice: 'Te quedaste sin contexto porque te quedaste sin RAM'. Básicamente puedo correr cinco prompts, y eso es todo."
 
 Aunque no se refería específicamente a Mythos, la limitación subyacente es la misma.
