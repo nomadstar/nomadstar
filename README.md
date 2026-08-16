@@ -54,6 +54,6 @@ Start wherever your curiosity takes you.
     - *Purpose*: An agentic swarm version of nvimchad configuration. Trying out a new paradigm of configuring nvim. 
 * [M913-ctl](https://github.com/nomadstar/m913-ctl)
     - *Purpose*: A mod with new examples for M917GB-PRO mice.
-* [gr-isdb](https://github.com/nomadstar/gr-isdbt)
-    - *Purpose*: The continuation of TransISDB-TB project, with more features and bug fixes.
+* [gr-isdbt](https://github.com/nomadstar/gr-isdbt)
+    - *Purpose*: DTV ISDB-T/Tb out-of-tree module for GNU Radio with GPU acceleration, OFDM synchronization and datacasting experimental testbed.
     
