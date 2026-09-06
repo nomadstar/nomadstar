@@ -1,5 +1,3 @@
-## Data lab notebook
-
 <div align="center">
 
 # N0m4d_St4r
